@@ -11,7 +11,7 @@ profile:
   tracing: true
 global-client-fingerprint: chrome
 proxies:
-- name: 🏳 Unknown-hysteria2 | 0-1
+- name: 🏳 Unknown-hysteria2 | 1-1
   type: hysteria2
   server: 2001:bc8:32d7:302::11
   port: 20088
@@ -133,7 +133,7 @@ proxy-groups:
   proxies:
   - ♻️ 自动选择
   - 🎯 全球直连
-  - 🏳 Unknown-hysteria2 | 0-1
+  - 🏳 Unknown-hysteria2 | 1-1
   - 🏳 Unknown-tuic | 2-1
   - 🏳 Unknown-hysteria2 | 3-1
   - 🏳 Unknown-hysteria | 6-1
@@ -148,7 +148,7 @@ proxy-groups:
   interval: 300
   tolerance: 50
   proxies:
-  - 🏳 Unknown-hysteria2 | 0-1
+  - 🏳 Unknown-hysteria2 | 1-1
   - 🏳 Unknown-tuic | 2-1
   - 🏳 Unknown-hysteria2 | 3-1
   - 🏳 Unknown-hysteria | 6-1
@@ -162,7 +162,7 @@ proxy-groups:
   proxies:
   - 🚀 节点选择
   - 🎯 全球直连
-  - 🏳 Unknown-hysteria2 | 0-1
+  - 🏳 Unknown-hysteria2 | 1-1
   - 🏳 Unknown-tuic | 2-1
   - 🏳 Unknown-hysteria2 | 3-1
   - 🏳 Unknown-hysteria | 6-1
@@ -176,7 +176,7 @@ proxy-groups:
   proxies:
   - 🎯 全球直连
   - 🚀 节点选择
-  - 🏳 Unknown-hysteria2 | 0-1
+  - 🏳 Unknown-hysteria2 | 1-1
   - 🏳 Unknown-tuic | 2-1
   - 🏳 Unknown-hysteria2 | 3-1
   - 🏳 Unknown-hysteria | 6-1
@@ -190,7 +190,7 @@ proxy-groups:
   proxies:
   - 🎯 全球直连
   - 🚀 节点选择
-  - 🏳 Unknown-hysteria2 | 0-1
+  - 🏳 Unknown-hysteria2 | 1-1
   - 🏳 Unknown-tuic | 2-1
   - 🏳 Unknown-hysteria2 | 3-1
   - 🏳 Unknown-hysteria | 6-1
@@ -204,7 +204,7 @@ proxy-groups:
   proxies:
   - 🚀 节点选择
   - 🎯 全球直连
-  - 🏳 Unknown-hysteria2 | 0-1
+  - 🏳 Unknown-hysteria2 | 1-1
   - 🏳 Unknown-tuic | 2-1
   - 🏳 Unknown-hysteria2 | 3-1
   - 🏳 Unknown-hysteria | 6-1
@@ -218,7 +218,7 @@ proxy-groups:
   proxies:
   - 🚀 节点选择
   - 🎯 全球直连
-  - 🏳 Unknown-hysteria2 | 0-1
+  - 🏳 Unknown-hysteria2 | 1-1
   - 🏳 Unknown-tuic | 2-1
   - 🏳 Unknown-hysteria2 | 3-1
   - 🏳 Unknown-hysteria | 6-1
@@ -232,7 +232,7 @@ proxy-groups:
   proxies:
   - 🎯 全球直连
   - 🚀 节点选择
-  - 🏳 Unknown-hysteria2 | 0-1
+  - 🏳 Unknown-hysteria2 | 1-1
   - 🏳 Unknown-tuic | 2-1
   - 🏳 Unknown-hysteria2 | 3-1
   - 🏳 Unknown-hysteria | 6-1
@@ -246,7 +246,7 @@ proxy-groups:
   proxies:
   - 🎯 全球直连
   - 🚀 节点选择
-  - 🏳 Unknown-hysteria2 | 0-1
+  - 🏳 Unknown-hysteria2 | 1-1
   - 🏳 Unknown-tuic | 2-1
   - 🏳 Unknown-hysteria2 | 3-1
   - 🏳 Unknown-hysteria | 6-1
@@ -260,7 +260,7 @@ proxy-groups:
   proxies:
   - 🚀 节点选择
   - 🎯 全球直连
-  - 🏳 Unknown-hysteria2 | 0-1
+  - 🏳 Unknown-hysteria2 | 1-1
   - 🏳 Unknown-tuic | 2-1
   - 🏳 Unknown-hysteria2 | 3-1
   - 🏳 Unknown-hysteria | 6-1
@@ -274,7 +274,7 @@ proxy-groups:
   proxies:
   - 🚀 节点选择
   - 🎯 全球直连
-  - 🏳 Unknown-hysteria2 | 0-1
+  - 🏳 Unknown-hysteria2 | 1-1
   - 🏳 Unknown-tuic | 2-1
   - 🏳 Unknown-hysteria2 | 3-1
   - 🏳 Unknown-hysteria | 6-1
@@ -288,7 +288,7 @@ proxy-groups:
   proxies:
   - 🚀 节点选择
   - 🎯 全球直连
-  - 🏳 Unknown-hysteria2 | 0-1
+  - 🏳 Unknown-hysteria2 | 1-1
   - 🏳 Unknown-tuic | 2-1
   - 🏳 Unknown-hysteria2 | 3-1
   - 🏳 Unknown-hysteria | 6-1
@@ -311,7 +311,7 @@ proxy-groups:
   proxies:
   - 🚀 节点选择
   - 🎯 全球直连
-  - 🏳 Unknown-hysteria2 | 0-1
+  - 🏳 Unknown-hysteria2 | 1-1
   - 🏳 Unknown-tuic | 2-1
   - 🏳 Unknown-hysteria2 | 3-1
   - 🏳 Unknown-hysteria | 6-1
